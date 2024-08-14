@@ -22,8 +22,9 @@ int main(){
         array[i+1]=array[i];
     }
     array[index]=el;
+    n++;
     cout<<"New array: ";
-    for(i=0;i<=n;i++){
+    for(i=0;i<n;i++){
         cout<<array[i]<<" ";
     }
 }
