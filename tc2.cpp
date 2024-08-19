@@ -14,3 +14,4 @@ int main(){
         };
     return 0;
 }
+// time complexity (n^2)
