@@ -27,3 +27,4 @@ int main(){
         cout<<"Element is not present in the array!";
     }
 }
+// time complexity (n)
