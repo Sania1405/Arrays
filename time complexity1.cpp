@@ -5,3 +5,4 @@ int main(){
     cout<<arr[3];
     return 0;
 }
+// time complexity O(1)
